@@ -1,0 +1,14 @@
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/CMakeFiles/install/local.dir
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/CMakeFiles/install.dir
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/CMakeFiles/whatapp_masager.dir
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir

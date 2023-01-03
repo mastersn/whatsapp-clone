@@ -1,0 +1,17 @@
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/bundle/whatapp_masager
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/bundle/data/icudtl.dat
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/bundle/data/flutter_assets/asset/images/splash_light.png
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/bundle/data/flutter_assets/asset/images/circle.jpg
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/bundle/data/flutter_assets/asset/images/splash_dark.png
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/bundle/data/flutter_assets/asset/images/im01.jpg
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/bundle/data/flutter_assets/asset/images/circle.png
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/media/sonpc/data/OpenProJect/flutter-project/whatapp_masager/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
